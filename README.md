@@ -1,2 +1,3 @@
 # hello-world
 my 1st repository
+Hllo everyone!!!Today 18/1/2018 i am starting to explore github...
